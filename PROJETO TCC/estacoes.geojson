@@ -1,0 +1,1511 @@
+{
+    "type": "FeatureCollection",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "cod": 80254769,
+                "nome": "Praia Estuário",
+                "imp": 2
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -53.023835185627576,
+                    -10.40801202241073
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "cod": 74860962,
+                "nome": "Luz Rio",
+                "imp": 3
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -54.3700711137588,
+                    -9.041435358691011
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "cod": 90924226,
+                "nome": "Vila Delta",
+                "imp": 2
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -47.942660994620184,
+                    -20.272160866652037
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "cod": 51944462,
+                "nome": "Campo Estuário",
+                "imp": 3
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -49.8982152049434,
+                    -10.473059123283495
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "cod": 85892307,
+                "nome": "Sol Monte",
+                "imp": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -53.66474022635926,
+                    -19.114083541585565
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "cod": 37335773,
+                "nome": "Praia Canal",
+                "imp": 3
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -57.894642877399725,
+                    -13.19449989963699
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "cod": 40139016,
+                "nome": "Belo Monte",
+                "imp": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -52.43566619483056,
+                    -3.5093338302545316
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "cod": 92225535,
+                "nome": "Vila Lagoa",
+                "imp": 4
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -53.988193366650535,
+                    -15.789160604803296
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "cod": 25048592,
+                "nome": "Praia Rio",
+                "imp": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -49.361692398835395,
+                    -7.242178641891632
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "cod": 45758029,
+                "nome": "São Monte",
+                "imp": 1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -49.83474897361002,
+                    -11.68415572005976
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "cod": 92055917,
+                "nome": "Luz Lagoa",
+                "imp": 2
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -50.00719493021204,
+                    -17.43055112203149
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "cod": 90732171,
+                "nome": "Luz Foz",
+                "imp": 1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.08559914667987,
+                    -12.735761173088438
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "cod": 47970670,
+                "nome": "Praia Vale",
+                "imp": 1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -50.221878534313525,
+                    -11.952758020262417
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "cod": 85583532,
+                "nome": "Praia Monte",
+                "imp": 2
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.898961251075704,
+                    -7.947985473982473
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "cod": 98181527,
+                "nome": "Nova Córrego",
+                "imp": 3
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -49.034461972140136,
+                    -9.356098943665069
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "cod": 83601505,
+                "nome": "Santa Baía",
+                "imp": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.89455869047032,
+                    -13.118712002430048
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "cod": 80302812,
+                "nome": "Nova Vale",
+                "imp": 1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -51.909841477257885,
+                    -14.718860249839366
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "cod": 67217811,
+                "nome": "Sol Córrego",
+                "imp": 2
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -54.57317821805499,
+                    -14.242986659791459
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "cod": 30256260,
+                "nome": "Porto Delta",
+                "imp": 1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -42.55172224945061,
+                    -15.062274182553864
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "cod": 73298638,
+                "nome": "Luz Delta",
+                "imp": 2
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -54.40509935180769,
+                    -6.7826832533350405
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "cod": 23055091,
+                "nome": "Luz Córrego",
+                "imp": 4
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.72821672175889,
+                    -12.871994828232756
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "cod": 18118250,
+                "nome": "Sol Rio",
+                "imp": 2
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -51.695921436981614,
+                    -6.110076231587609
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "cod": 94008906,
+                "nome": "Luz Estuário",
+                "imp": 3
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -51.14025237381317,
+                    -12.801180216422466
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "cod": 15287028,
+                "nome": "São Canal",
+                "imp": 4
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -50.00261230135557,
+                    -12.005551668577494
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "cod": 11018923,
+                "nome": "Vila Vale",
+                "imp": 3
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -49.74987008187637,
+                    -8.349214866681615
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "cod": 26062634,
+                "nome": "Belo Vale",
+                "imp": 2
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -51.205305671151656,
+                    -13.05134647542183
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "cod": 85779207,
+                "nome": "Vila Monte",
+                "imp": 1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -51.812267883579295,
+                    -12.684306939709893
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "cod": 99576291,
+                "nome": "São Delta",
+                "imp": 4
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -52.48218278631232,
+                    -8.24929008410614
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "cod": 30460958,
+                "nome": "Campo Baía",
+                "imp": 3
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -49.95949052274329,
+                    -14.953502678653177
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "cod": 75476543,
+                "nome": "Campo Córrego",
+                "imp": 2
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.3496747477267,
+                    -10.50285839501882
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "cod": 75888911,
+                "nome": "Santa Rio",
+                "imp": 1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -53.899124144767384,
+                    -11.448724193710623
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "cod": 69815726,
+                "nome": "Santa Delta",
+                "imp": 1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -51.8431102310786,
+                    -13.824380925413708
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "cod": 59157985,
+                "nome": "Belo Córrego",
+                "imp": 3
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -51.69377840395231,
+                    -14.485317234901496
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "cod": 67032881,
+                "nome": "São Foz",
+                "imp": 1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -52.04597917015397,
+                    -11.565595801131217
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "cod": 17376849,
+                "nome": "Sol Vale",
+                "imp": 1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -45.61442890176567,
+                    -16.636667829730133
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "cod": 80673021,
+                "nome": "Vila Canal",
+                "imp": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -46.56439473697786,
+                    -13.913374074616975
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "cod": 15581183,
+                "nome": "Vila Foz",
+                "imp": 1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -50.3481221224627,
+                    -14.087486341860625
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "cod": 60893637,
+                "nome": "Sol Canal",
+                "imp": 1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -51.02179443682591,
+                    -13.237544543424143
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "cod": 56210058,
+                "nome": "Santa Monte",
+                "imp": 1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -49.998928461067635,
+                    -10.551731372680585
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "cod": 52990425,
+                "nome": "Santa Canal",
+                "imp": 2
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -49.9256747239382,
+                    -11.845915779344258
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "cod": 18603858,
+                "nome": "Porto Canal",
+                "imp": 3
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -50.846350338530925,
+                    -7.003857652327594
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "cod": 25850214,
+                "nome": "Nova Lagoa",
+                "imp": 3
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -47.284082463112576,
+                    -15.79944400329667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "cod": 63497754,
+                "nome": "Santa Lagoa",
+                "imp": 2
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -42.86527542634149,
+                    -11.787166751276894
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "cod": 99519379,
+                "nome": "Nova Rio",
+                "imp": 2
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -45.81053695232363,
+                    -18.660705004495348
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "cod": 34284778,
+                "nome": "Praia Delta",
+                "imp": 2
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -49.57682161848716,
+                    -19.00325048874229
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "cod": 97057623,
+                "nome": "São Estuário",
+                "imp": 3
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -49.82805662105389,
+                    -11.362956204479794
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "cod": 16828954,
+                "nome": "Nova Foz",
+                "imp": 3
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -50.841315779760635,
+                    -10.009344642306859
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "cod": 85021875,
+                "nome": "Porto Lagoa",
+                "imp": 2
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -51.9163460537225,
+                    -6.44854497448841
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "cod": 41800193,
+                "nome": "Campo Rio",
+                "imp": 3
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -45.58848921654742,
+                    -16.309819110721623
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "cod": 42444842,
+                "nome": "Nova Estuário",
+                "imp": 3
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -55.50977866847903,
+                    -6.960878178745369
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "cod": 74017999,
+                "nome": "Vila Baía",
+                "imp": 1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -53.67602517510376,
+                    -10.581630838048424
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "cod": 30268740,
+                "nome": "Vila Estuário",
+                "imp": 2
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -52.60923948377007,
+                    -9.96247174935647
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "cod": 47408743,
+                "nome": "Porto Rio",
+                "imp": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -50.44497395346419,
+                    -14.691503772811277
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "cod": 41439648,
+                "nome": "Luz Monte",
+                "imp": 1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.847652088249504,
+                    -11.988505994672012
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "cod": 76582523,
+                "nome": "Sol Lagoa",
+                "imp": 2
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.6733030800936,
+                    -18.646317104668874
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "cod": 18262211,
+                "nome": "Campo Monte",
+                "imp": 4
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -55.12933779655177,
+                    -13.423165010717117
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "cod": 36657876,
+                "nome": "Santa Vale",
+                "imp": 3
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -49.408753936439815,
+                    -15.273447892650935
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "cod": 89856163,
+                "nome": "Santa Estuário",
+                "imp": 2
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -47.288964898279914,
+                    -20.46566256793617
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "cod": 89302701,
+                "nome": "Praia Lagoa",
+                "imp": 2
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -46.178444620174844,
+                    -9.779018355549812
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "cod": 24866013,
+                "nome": "Nova Delta",
+                "imp": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.24694575185083,
+                    -7.333170804170276
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "cod": 55350192,
+                "nome": "Campo Foz",
+                "imp": 2
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.47503196089883,
+                    -14.534364750306887
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "cod": 33848931,
+                "nome": "Santa Foz",
+                "imp": 3
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -55.25797433031715,
+                    -18.183417820299177
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "cod": 16570432,
+                "nome": "São Lagoa",
+                "imp": 1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -50.01240322203126,
+                    -3.9098858501334934
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "cod": 63269076,
+                "nome": "Belo Foz",
+                "imp": 3
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -52.82485893832364,
+                    -12.903070548477565
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "cod": 15375879,
+                "nome": "Belo Baía",
+                "imp": 2
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -49.68638369159367,
+                    -12.485967447698053
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "cod": 33271298,
+                "nome": "Porto Baía",
+                "imp": 2
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.33976540851466,
+                    -14.889421527678113
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "cod": 39855461,
+                "nome": "Belo Lagoa",
+                "imp": 4
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -49.321001814319324,
+                    -11.545515447449638
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "cod": 99566263,
+                "nome": "Porto Monte",
+                "imp": 4
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -49.45579020803053,
+                    -14.280661221619571
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "cod": 56050278,
+                "nome": "São Baía",
+                "imp": 2
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -53.23198599376108,
+                    -7.689827385681931
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "cod": 62208014,
+                "nome": "Belo Estuário",
+                "imp": 3
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -50.43249758306051,
+                    -16.077114019406327
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "cod": 79627199,
+                "nome": "Porto Foz",
+                "imp": 2
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -56.78763422030529,
+                    -14.843988837785705
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "cod": 86770970,
+                "nome": "Nova Monte",
+                "imp": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -56.43147543072949,
+                    -7.796522124041993
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "cod": 48942674,
+                "nome": "Santa Córrego",
+                "imp": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -44.878876896516516,
+                    -15.383636030022616
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "cod": 18013470,
+                "nome": "Sol Estuário",
+                "imp": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -46.182840671357766,
+                    -17.559224116676155
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "cod": 66192238,
+                "nome": "Campo Delta",
+                "imp": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -52.77113458791608,
+                    -10.391498282690545
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "cod": 96437271,
+                "nome": "Belo Delta",
+                "imp": 2
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -57.59061233315088,
+                    -14.262503616708187
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "cod": 84630482,
+                "nome": "Luz Canal",
+                "imp": 2
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -51.17007999642168,
+                    -12.641856418078278
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "cod": 57439257,
+                "nome": "Porto Vale",
+                "imp": 2
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -52.083782348771656,
+                    -9.765950063912035
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "cod": 89398616,
+                "nome": "Sol Baía",
+                "imp": 2
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -52.2673957524611,
+                    -19.879415119841497
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "cod": 57649437,
+                "nome": "Vila Rio",
+                "imp": 3
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -41.74976710944178,
+                    -12.137028664605687
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "cod": 11443864,
+                "nome": "Belo Canal",
+                "imp": 3
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -52.72452855330522,
+                    -14.657661569120636
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "cod": 25681825,
+                "nome": "Luz Baía",
+                "imp": 3
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.87172943697782,
+                    -16.69976412861102
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "cod": 56018202,
+                "nome": "Praia Foz",
+                "imp": 2
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -56.78374307301267,
+                    -12.238336464439827
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "cod": 39340981,
+                "nome": "Nova Canal",
+                "imp": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -49.87557001234156,
+                    -11.996270659135341
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "cod": 11202696,
+                "nome": "Sol Foz",
+                "imp": 1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -53.27269852223987,
+                    -11.161059192910969
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "cod": 62722116,
+                "nome": "São Córrego",
+                "imp": 3
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.93679923297525,
+                    -10.714656117038812
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "cod": 73975244,
+                "nome": "Luz Vale",
+                "imp": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -49.98862632214969,
+                    -8.080481201247533
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "cod": 61717379,
+                "nome": "Porto Córrego",
+                "imp": 1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -54.054792527110344,
+                    -17.1197235933423
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "cod": 16015898,
+                "nome": "São Rio",
+                "imp": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -49.432820300962554,
+                    -11.647361178062223
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "cod": 72783526,
+                "nome": "Campo Canal",
+                "imp": 2
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -52.3804731237661,
+                    -12.396113176363642
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "cod": 73325580,
+                "nome": "Praia Córrego",
+                "imp": 1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -47.04221154856786,
+                    -16.286875387304637
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "cod": 36037995,
+                "nome": "São Vale",
+                "imp": 4
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.34880250718758,
+                    -10.192837039058167
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "cod": 67965897,
+                "nome": "Sol Delta",
+                "imp": 3
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -49.393423528967936,
+                    -11.718017932056963
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "cod": 59936618,
+                "nome": "Campo Lagoa",
+                "imp": 2
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -49.56114316624598,
+                    -3.2305523254420834
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "cod": 81990848,
+                "nome": "Belo Rio",
+                "imp": 2
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -57.921046061661315,
+                    -10.784503675525166
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "cod": 22172050,
+                "nome": "Campo Vale",
+                "imp": 2
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -50.346621722179776,
+                    -8.810981452675563
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "cod": 23014177,
+                "nome": "Vila Córrego",
+                "imp": 4
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -46.96539191825554,
+                    -15.24205420487414
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "cod": 39124747,
+                "nome": "Porto Estuário",
+                "imp": 3
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.81353354520263,
+                    -18.345178695514896
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "cod": 30191490,
+                "nome": "Nova Baía",
+                "imp": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -52.225491766034786,
+                    -18.303899019303778
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "cod": 82457925,
+                "nome": "Praia Baía",
+                "imp": 1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -53.41578757477643,
+                    -12.008164772716084
+                ]
+            }
+        }
+    ]
+}

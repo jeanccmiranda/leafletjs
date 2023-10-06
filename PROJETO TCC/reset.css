@@ -1,0 +1,42 @@
+/* Reset CSS */
+
+/* Defina a margem e preenchimento padrão para zero */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  /* Defina o estilo de fonte padrão para garantir a consistência */
+  body {
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  /* Remova a decoração de link padrão e defina a cor */
+  a {
+    text-decoration: none;
+    color: inherit;
+  }
+  
+  /* Remova as listas de marcadores padrão */
+  ul, ol {
+    list-style: none;
+  }
+  
+  /* Zere os estilos padrão de cabeçalhos */
+  h1, h2, h3, h4, h5, h6 {
+    font-weight: normal;
+  }
+  
+  /* Remova margens em elementos de lista e outros elementos */
+  li, p {
+    margin: 0;
+  }
+  
+  /* Zere a decoração de borda padrão e defina a cor */
+  input, button, textarea {
+    border: none;
+    outline: none;
+  }
+  
+  /* Estilos adicionais conforme necessário */

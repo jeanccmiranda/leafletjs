@@ -1,0 +1,121 @@
+
+@import url(./reset.css);
+
+body {
+    font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", "Noto Sans", "Liberation Sans", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    margin: 0;
+    padding: 0;
+    background-color: #f7f7f9;
+
+}
+main {
+    display:flex;
+    padding: 3em;
+    width: 100vw;
+
+}
+
+
+.nav_bar {
+   display: flex;
+   flex-direction: column;
+   background: #fff;
+   height: 450px;
+   padding: 0.5em;
+   z-index: 1;
+   position: absolute;
+   top: 25%;
+   border: 1px solid black;
+   border-radius: 1em;
+   margin: 1em 0 0 1em;
+
+}
+
+
+.nav_button {
+    width: 50px;
+    padding: 0.5rem;
+    font-size: 2rem;
+    font-weight: bold;
+    color: white;
+    background: linear-gradient(90deg, rgba(46,34,139,1) 0%, rgba(43,58,167,0.8016456582633054) 100%);
+    border: 1px solid #1d389f;
+    border-radius: 0.5em;
+    box-shadow: 2px 2px 12px -3px rgba(0,0,0,0.75);
+}
+
+.nav_button:hover {
+    background: linear-gradient(90deg, rgba(59,80,232,1) 0%, rgba(74,105,224,0.8016456582633054) 100%);
+    transform: scale(0.95) translateX(-5px) translateY(5px);
+}
+
+#map { 
+    flex: 1 1 50vw;  /* flex-grow, flex-shrink, flex-basis */
+    height: 90vh;
+    width: 90vw;
+    box-sizing: border-box;
+    position: relative;
+    z-index: 0;
+}
+
+.table_container {
+    flex: 0 0 50vw;  /* flex-grow, flex-shrink, flex-basis */
+    display: none;
+    flex-direction: column;
+    max-height: 100vh;
+    padding: 1rem;
+    margin: 1rem;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #e8ecf6;
+    background-color: #fff;
+}
+
+.header_options {
+    display: flex;
+    justify-content: space-between;
+
+}
+.btn_close {
+    background-color: black;
+    color: #fff;
+    font-weight: bold;
+    width: 2rem;
+    height: 2rem;
+    border-radius: 50%; 
+}
+.menu_ul {
+    display: flex;
+    list-style: none;
+    gap: 1rem;
+
+}
+.menu_ul a:hover {
+    color: blue;
+
+}
+.container1, .container2, .container3 {
+    display: none;
+    align-self: center;
+    justify-self: center;
+    width: 100%;
+    height: 100%;
+    border: 1px solid black;
+}
+
+.container1 {
+    background: blue;
+}
+.container2 {
+    background: red;
+
+}
+
+.container3 {
+    background: yellow;
+}
+
+
+.visible {
+    display: flex;
+}

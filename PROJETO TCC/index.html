@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+    integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
+    crossorigin=""/>
+    <link rel="stylesheet" href="./index.css"/>
+     <!-- Make sure you put this AFTER Leaflet's CSS -->
+ <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+ integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
+ crossorigin=""></script>
+    <title>Document</title>
+</head>
+<body>
+    <main>
+        <nav class="nav_bar">
+            <button class="nav_button">
+                x
+            </button>
+        </nav>
+        <div id="map"></div>
+        <div id="table" class="table_container">
+            <div class="header_options">
+                <ul class="menu_ul">
+                    <li id="container1" class="menu_li">
+                        <a href="#">Opção 1</a>
+                    </li>
+                    <li  id="container2" class="menu_li">
+                        <a href="#">Opção 2</a>
+                    </li>
+                    <li id="container3" class="menu_li">
+                        <a href="#">Opção 3</a>
+                    </li>
+                </ul>
+                <button class="btn_close"> X </button>
+            </div>
+            <div class=" container1"></div>
+            <div class=" container2"></div>
+            <div class=" container3"></div>
+            
+        </div>
+
+    </main>
+    
+    <script src="map.js"></script>
+</body>
+</html>
